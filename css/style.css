@@ -92,7 +92,7 @@ a:hover{
   display: grid;
   grid-template-columns: 1fr 5fr 1fr;
   grid-row-gap: 15px;
-  grid-auto-rows: repeat(5, auto);
+  grid-template-rows: repeat(5, auto);
 }
 
 /* Remainder of requirements here: */
